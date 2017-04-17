@@ -1,4 +1,0 @@
-Nome do artefato: Diagrama_Casos_Uso_I.txt
-Nome do(a) autor(a): Natália Marufuji Aoki
-Data de criação : 17/04/2017
-Hora de criação : 20:37:05
