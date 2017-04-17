@@ -2,3 +2,8 @@ Nome do artefato: Iniciacao_I.txt
 Nome do(a) autor(a): Natália Marufuji Aoki
 Data de criação : 16/04/2017
 Hora de criação : 17:38:45
+
+Nome do artefato: Iniciacao_I.txt
+Nome do(a) autor(a) da alteração: Ana Luísa Alves Burjack
+Data de criação : 17/04/2017
+Hora de criação : 19:44:22
