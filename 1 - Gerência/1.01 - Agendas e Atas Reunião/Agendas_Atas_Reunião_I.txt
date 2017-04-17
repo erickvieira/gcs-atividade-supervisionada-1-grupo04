@@ -1,4 +1,4 @@
-Nome do artefato: Agendas_Atas_Reunião_I
+Nome do artefato: Agendas_Atas_Reunião_I.txt
 Nome do(a) autor(a): Natália Marufuji Aoki
 Data de criação : 16/04/2017
 Hora de criação : 17:36:10
