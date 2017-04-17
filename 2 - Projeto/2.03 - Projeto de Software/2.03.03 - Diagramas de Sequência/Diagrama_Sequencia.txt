@@ -1,4 +1,4 @@
-Nome do artefato: Diagrama_Casos_Uso_I.txt
-Nome do(a) autor(a): Nat·lia Marufuji Aoki
-Data de criaÁ„o : 17/04/2017
-Hora de criaÁ„o : 20:28:05
+Nome do artefato: Diagrama_Sequencia_I.txt
+Nome do(a) autor(a): Nat√°lia Marufuji Aoki
+Data de cria√ß√£o : 17/04/2017
+Hora de cria√ß√£o : 20:41:21
