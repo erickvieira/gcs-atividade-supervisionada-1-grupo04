@@ -8,3 +8,8 @@ Hora de criação : 16:27:26
 - Acompanhamento das atividades no Trello;
 - Possíveis correções no Termo de Abertura do Projeto;
 - Discução sobre a 2ª baseline;
+
+ Nome artefato: Pautas_Reuniao_III
+ Nome do(a) autor(a) da alteração: Paula Resende
+ Data da alteração: 17/04/2016
+ Hora da alteração: 19:26:47
