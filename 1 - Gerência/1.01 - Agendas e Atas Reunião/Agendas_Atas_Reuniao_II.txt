@@ -1,5 +1,11 @@
+Nome do artefato: Agendas_Atas_Reuniao_II
+Nome do(a) autor(a): Paula Resende
+Data de criação: 16/04/2017
+Hora de criação: 19:39:07
 
-# Nome do artefato: Agendas_Atas_Reunião_II
-# Nome do(a) autor(a): Paula Resende
-# Data de criação : 16/04/2017
-# Hora de criação : 19:39:07
+Nome do artefato: Agendas_Atas_Reunião_II
+Nome do(a) autor(a): Erick Vieira
+Data de criação: 17/04/2017
+Hora de criação: 19:26:48
+
+Alteração da data da reunião para 18/04/2017, às 18h, em frente ao CAB.

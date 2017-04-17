@@ -1,0 +1,11 @@
+Nome do artefato: Planejamento_Iniciaçao
+Nome do(a) autor(a): Paula Resende
+Data de criação: 16/04/2017
+Hora de criação: 19:41:19
+
+Nome do artefato: Planejamento_Iniciaçao
+Nome do(a) autor(a): Erick Vieira
+Data de criação: 17/04/2017
+Hora de criação: 19:30:42
+
+Alteração da data limite para a criação do checklist de qualidade dos artefatos.
