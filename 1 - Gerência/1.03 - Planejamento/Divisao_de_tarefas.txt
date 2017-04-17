@@ -4,3 +4,8 @@ Data de criação : 17/04/2017
 Hora de criação : 18:14:12
 
 # Associação de Recursos Humanos e suas respectivas tarefas
+
+ Nome artefato: Divisao_de_Tarefas
+ Nome do(a) autor(a) da alteração: Paula Resende
+ Data da alteração: 17/04/2017
+ Hora da alteração: 19:51:51
