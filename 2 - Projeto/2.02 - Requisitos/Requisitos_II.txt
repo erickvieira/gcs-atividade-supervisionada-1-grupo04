@@ -4,6 +4,7 @@ Nome da autora: Ana Luísa Alves Burjack
 Acrescentando novas linhas entre linhas existentes
 
 Data de criação: 18/04/2017
+
 Hora de criação: 13:09:28 Alterando linhas já existentes
 
 Incluindo linhas no final do documento
