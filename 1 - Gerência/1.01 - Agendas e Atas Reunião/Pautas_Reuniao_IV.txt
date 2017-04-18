@@ -7,4 +7,6 @@ Hora de criação : 21:22:34
 
 - Acompanhamento das atividades no Trello;
 - Discução sobre o modelo de negócio do cliente;
-- Discução sobre a 4ª baseline;
+- Discução sobre a 4ª baseline; Alterando linha já existente.
+
+Criando novas linhas
