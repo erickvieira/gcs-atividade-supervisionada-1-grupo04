@@ -1,0 +1,6 @@
+Nome do artefato: Requisitos_Funcioanais[NOVO].txt
+Nome do(a) autor(a): Erick Vieira
+Data de criação: 18/04/2017
+Hora de criação: 15:33:14
+
+# Documento criado no trunk [MASTER].
