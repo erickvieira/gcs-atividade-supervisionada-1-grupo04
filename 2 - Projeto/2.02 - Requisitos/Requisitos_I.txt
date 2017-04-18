@@ -1,4 +1,6 @@
 Nome do artefato: Requisitos_I.txt
-Nome do(a) autor(a): Natália Marufuji Aoki
+Nome do(a) autor(a): Natália Marufuji Aoki - Nati
+Professor : Rubens
 Data de criação : 17/04/2017
 Hora de criação : 20:28:40
+Trabalho de GCS
