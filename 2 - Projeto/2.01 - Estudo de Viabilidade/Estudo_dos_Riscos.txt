@@ -1,0 +1,6 @@
+Nome do artefato: Estudo_dos_Riscos
+Nome do(a) autor(a): Erick Vieira
+Data de criação: 17/04/2017
+Hora de criação: 21:55:39
+
+# Levantamento dos riscos envovidos no projeto;

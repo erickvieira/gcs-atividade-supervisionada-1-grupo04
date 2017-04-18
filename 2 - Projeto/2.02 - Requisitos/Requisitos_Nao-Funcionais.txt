@@ -1,0 +1,6 @@
+Nome do artefato: Requisitos_Nao-Funcionais
+Nome do(a) autor(a): Erick Vieira
+Data de criação: 17/04/2017
+Hora de criação: 21:57:02
+
+# Documento de formalização dos Requisitos Não-Funcionais.

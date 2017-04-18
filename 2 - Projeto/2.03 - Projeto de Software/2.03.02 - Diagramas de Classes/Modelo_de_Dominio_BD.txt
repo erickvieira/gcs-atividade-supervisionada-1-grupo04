@@ -1,0 +1,6 @@
+Nome do artefato: Modelo_de_Dominio_BD
+Nome do(a) autor(a): Erick Vieira
+Data de criação: 17/04/2017
+Hora de criação: 22:00:05
+
+# Diagramação do Modelo de Domínio, baseado no modelo de negócio da empresa contratante.

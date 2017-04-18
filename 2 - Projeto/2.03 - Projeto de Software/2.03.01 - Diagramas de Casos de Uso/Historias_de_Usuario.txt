@@ -1,0 +1,6 @@
+Nome do artefato: Historias_de_Usuario
+Nome do(a) autor(a): Erick Vieira
+Data de criação: 17/04/2017
+Hora de criação: 21:58:31
+
+# Documento de formalização das Histórias de Usuário.

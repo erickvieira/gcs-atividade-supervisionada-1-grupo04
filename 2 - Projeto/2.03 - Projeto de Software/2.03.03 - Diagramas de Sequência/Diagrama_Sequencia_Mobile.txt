@@ -1,0 +1,6 @@
+Nome do artefato: Diagrama_Sequencia_Mobile
+Nome do(a) autor(a): Erick Vieira
+Data de criação: 17/04/2017
+Hora de criação: 22:01:16
+
+# Elaboração dos diagramas de sequência para o aplicativo mobile.
