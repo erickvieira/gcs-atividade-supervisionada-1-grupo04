@@ -2,3 +2,4 @@ Nome do artefato: Requisitos_I.txt
 Nome do(a) autor(a): Natália Marufuji Aoki
 Data de criação : 17/04/2017
 Hora de criação : 20:28:40
+Professor : Rubens Castro
