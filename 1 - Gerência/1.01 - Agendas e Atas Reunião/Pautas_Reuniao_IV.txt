@@ -1,0 +1,10 @@
+Nome do artefato: Pautas_Reuniao_IV
+Nome do(a) autor(a): Erick Vieira
+Data de criação : 17/04/2017
+Hora de criação : 21:22:34
+
+# Pautas para Reunião 04 - 17/04/2017, às 23h:
+
+- Acompanhamento das atividades no Trello;
+- Discução sobre o modelo de negócio do cliente;
+- Discução sobre a 4ª baseline;

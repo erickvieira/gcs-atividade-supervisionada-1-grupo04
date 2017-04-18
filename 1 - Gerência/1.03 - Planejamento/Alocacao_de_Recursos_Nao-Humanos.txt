@@ -1,0 +1,6 @@
+Nome do artefato: Alocacao_de_Recursos_Nao-Humanos
+Nome do(a) autor(a): Erick Vieira
+Data de criação : 17/04/2017
+Hora de criação : 21:32:14
+
+# Associação entre os recursos utilizados e as atividades.
